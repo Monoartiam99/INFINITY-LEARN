@@ -4,9 +4,9 @@
    --main-color:#3766ff;
    --red:#e73c3c;
    --orange:#f39c12;
-   --light-color:#888;
+   --light-color:#000000;
    --light-bg:#eee;
-   --black:#2c3e50;
+   --black:#000000;
    --white:#fff;
    --border:.1rem solid rgba(0,0,0,.2);
 }
@@ -1292,7 +1292,7 @@ section{
    /* padding-bottom: 9.5rem; */
 }
 .footer {
-   background: #022e21; 
+   background: #79c7ff; 
    color: #ffffff;
    text-align: center;
    padding: 25px 15px;
@@ -1324,7 +1324,7 @@ section{
 }
 
 .footer-links a {
-   color: #b700ff;
+   color: #ffffff;
    text-decoration: none;
    font-weight: 600;
    transition: color 0.3s ease-in-out;
